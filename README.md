@@ -6,7 +6,7 @@ Requirements:
 - (can edit .ahk to another address/port)
 
 Download Source:
-- jsok.ahk
+- json.ahk
 - qombo(latest).ahk
 - (requires AHK isntalled to run)
 
