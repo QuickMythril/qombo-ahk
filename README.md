@@ -11,5 +11,5 @@ Download Source:
 - (requires AHK isntalled to run)
 
 Alternate Download:
-- qombo(latest).exe
+- <a href="https://github.com/QuickMythril/qombo/releases">qombo(latest).exe</a>
 - (nothing extra needed to run)
