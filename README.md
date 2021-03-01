@@ -3,6 +3,7 @@ qortal AHK development
 
 Features:
 - See Account & Group info
+- List open and completed Trades (BTC/LTC)
 - List online Minters & connected Peers
 - Lookup by Address or Name
 - Manage Qortal settings
